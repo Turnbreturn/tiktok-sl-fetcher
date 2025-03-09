@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Life TikTok Fetcher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Second Life TikTok Fetcher</h1>
+        <p>This app allows users in Second Life to post a TikTok link in chat, and the system will fetch video details and display them in-world.</p>
+        <p>It uses the TikTok API to retrieve information such as video titles and creators.</p>
+        <p>This is a personal project and is not affiliated with TikTok or Second Life.</p>
+    </div>
+</body>
+</html>
